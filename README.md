@@ -2,10 +2,10 @@
 ---
 
 ## 🚀 How to Run
-1. Clone the repository
+1. Clone this repository
 2. Install required libraries:
    pip install pandas numpy matplotlib seaborn
-3. Open netflix_eda.ipynb in Jupyter Notebook
+3. Open `netflix_eda.ipynb`
 4. Run all cells
 
 ---
